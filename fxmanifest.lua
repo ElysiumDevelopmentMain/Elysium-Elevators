@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 lua54 'yes'
 
-author 'Elysium Development'
+author 'Joey B @ Next Dev Labs'
 description 'Standalone Elevator System for FiveM'
 version '1.0.0'
 
